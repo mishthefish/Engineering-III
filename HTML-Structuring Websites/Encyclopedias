@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Useful Resources</title>
+    </head>
+    
+    <body>
+        Put links to three encyclopedias here:
+        <br>
+        <a href = "https://www.britannica.com">Encylopedia Britannica</a>
+        <br>
+        <a href = "https://www.wikipedia.org">Wikipedia</a>
+        <br>
+        <a href = "https://medlineplus.gov/">MedLine Plus</a>
+            
+
+
+    </body>
+</html>
