@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    
+    <body>
+        <table border = "1">
+            <thead>
+            <tr>
+                <th><b>Sunday</b></th>
+                <th><b>Monday</b></th>
+                <th><b>Tuesday</b></th>
+                <th><b>Wednesday</b></th>
+                <th><b>Thursday</b></th>
+                <th><b>Friday</b></th>
+                <th><b>Saturday</b></th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Pancakes</td>
+                    <td>Toast and Peanut Butter</td>
+                    <td>Protein Shake</td>
+                    <td>Toast and </td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+                <tr>
+                    <td>Taylor</td>
+                    <td>Orange</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+                <tr>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+                <tr>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+            </tbody>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </table>
+    </body>
+</html>
