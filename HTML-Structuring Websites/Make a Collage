@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cool Pictures I Found</title>
+		<style>
+		   img{
+		       height:200px;   
+		   }
+		</style>
+	</head>
+
+	<body>
+		<img src="https://as2.ftcdn.net/v2/jpg/00/45/49/47/500_F_45494712_u5iZH0Taqqpo1MYHTWZ9TtZY5TH2xX5i.jpg">
+        <p>
+          Tesgro Tessieri. Capuccino. 2017. 
+PublicDomainPictures.net (http://www.publicdomainpictures.net/view-image.php?image=12741)  
+        </p>
+        <hr>
+
+		<img src="https://www.publicdomainpictures.net/pictures/220000/velka/chihuahua-1496082160Ho2.jpg">
+        <p>
+           Jean Beaufort. Chihuahua. 2012. 
+PublicDomainPictures.net (http://www.publicdomainpictures.net/view-image.php?image=12741)  
+        </p>
+        <hr>
+        
+        <img src="https://www.publicdomainpictures.net/pictures/60000/velka/bird-1381955059hdN.jpg">
+        <p>
+            George Hodan. Bird. 2020. 
+PublicDomainPictures.net (http://www.publicdomainpictures.net/view-image.php?image=12741) 
+        </p>
+        <hr>
+        
+        <img src="https://as1.ftcdn.net/v2/jpg/00/07/97/02/500_F_7970227_njUNEGY8c8jksyl635EeB5Vgpg0XnwdR.jpg">
+        <p>
+             Kwest. Urban Doom. 2013. 
+PublicDomainPictures.net (http://www.publicdomainpictures.net/view-image.php?image=12741)
+        </p>
+        <hr>
+        
+        <img src="https://www.publicdomainpictures.net/pictures/40000/velka/zoom-planet-and-moon.jpg">
+        <p>
+             Виталий Смолыгин. Zoom Planet and Moon. 2009. 
+PublicDomainPictures.net (http://www.publicdomainpictures.net/view-image.php?image=12741)
+        </p>
+        <hr>
+        
+        <img src="https://www.publicdomainpictures.net/pictures/130000/velka/lioness-head-1437052483ler.jpg">
+        <p>
+             Petr Kratochvil. Lioness Head. 2011. 
+PublicDomainPictures.net (http://www.publicdomainpictures.net/view-image.php?image=12741)
+        </p>
+        <hr>
+    </body>
+</html>
