@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>All About Me!</title>
+	</head>
+
+	<body style = "background-color: Blue;">
+		<h1 style = "background-color: #2B74BA ;">Mishael Sommers</h1>
+		<p style = "background-color: rgb(255,0,0);">Likes coding </p>
+	</body>
+</html>
