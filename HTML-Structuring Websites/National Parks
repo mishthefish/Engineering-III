@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parks to Visit</title>
+    </head>
+    
+    <body>
+        <h1>Parks to Visit</h1>
+        <br>
+        <a href = "https://en.wikipedia.org/wiki/Everglades_National_Park"><img src = "https://i0.wp.com/www.nationalparkusa.com/wp-content/uploads/2016/10/Everglades-National-Park2.jpg?fit=1600%2C1064&ssl=1" width = "500px"></a>
+        <br>
+        <a href = "https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park"><img src = "https://www.tivertonfoundation.org/wp-content/uploads/2014/07/Rocky-Mountains-Picture-The-Tiverton-Foundation-Background-Image.jpg" width = "500px"></a>
+        <br>
+        <a href = "https://en.wikipedia.org/wiki/Yosemite_National_Park"><img src = "https://www.tripsavvy.com/thmb/THexV-JsTEZItRo8YVHMbAXtisM=/2093x1435/filters:fill(auto,1)/yosemite-national-park-56a8171b5f9b58b7d0f088fc.jpg" width = "500px"></a>
+        <br>
+        <a href = "https://en.wikipedia.org/wiki/Biscayne_National_Park"><img src = "https://i0.wp.com/www.nationalparkusa.com/wp-content/uploads/2016/10/buildings_lighthouse_boca_chita_key_harbor_biscayne_national_park.jpg?fit=1600%2C1200&ssl=1" width = "500px"></a>
+        <br>
+        <a href = "https://en.wikipedia.org/wiki/Zion_National_Park"><img src = "https://th.bing.com/th/id/R.9d6d099c30c627073d88c95058928b53?rik=a%2b%2bD9mDThP66RA&riu=http%3a%2f%2ftraveldigg.com%2fwp-content%2fuploads%2f2016%2f09%2fZion-National-Park-Utah.jpg&ehk=eTjabDN21g%2f853WeBRvKvw5U4oN5f1lNwtvRarFSszY%3d&risl=&pid=ImgRaw&r=0" width = "500px"></a>
+    </body>
+</html>
