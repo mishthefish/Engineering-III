@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1><b>Dream Vacation Guides</b></h1>
+    </head>
+    
+    <body>
+        <ol>
+            <li>
+                    <b><h2>Ireland</h2></b>
+                    <ul>
+                        <li>
+                            <a href = "https://www.worldtravelguide.net/guides/europe/ireland/">Guide to Ireland </a>
+                        </li>
+                        <li>
+                            Visit in May
+                        </li>
+                        
+                        <li>
+                            Go for two weeks
+                        </li>
+                    </ul>
+            </li>
+            
+            <li>
+                <h2>Spain</h2>
+                    <ul>
+                        <li>
+                            <a href = "https://www.worldtravelguide.net/guides/europe/spain/">Guide to Spain</a>
+                        </li>
+                        <li>
+                            Visit in November
+                        </li>
+                        <li>
+                            Go for one week 
+                        </li>
+                    </ul>
+            </li>
+                    
+                    
+            <li>
+                    <h2>Netherlands</h2>
+                    <ul>
+                        <li>
+                            <a href = "https://www.worldtravelguide.net/guides/europe/netherlands/the-hague/">Guide to Netherlands</a>
+                        </li>
+                        <li>
+                            Visit in July 
+                        </li>
+                        <li>
+                            Go for four weeks
+                        </li>
+                    </ul>
+                    
+            </li>
+                    
+            <li>
+                    <h2>Thailand</h2>
+                    <ul>
+                        <li>
+                            <a href = "https://www.worldtravelguide.net/guides/asia/thailand/">Guide to Thailand</a>
+                        </li>
+                        <li>
+                            Visit in September 
+                        </li>
+                        <li>
+                            Go for one week
+                        </li>
+                    </ul>
+            </li>
+            
+            <li>
+                    <h2>Panama</h2>
+                    <ul>
+                        <li>
+                            <a href="https://www.worldtravelguide.net/guides/north-america/panama/">Guide to Panama</a>
+                        </li>
+                        <li>
+                            Visit in February
+                        </li>
+                        <li>
+                            Go for one week
+                        </li>
+                    </ul>
+            </li>
+            
+            
+            
+        </ol>
+    </body>
+</html>
