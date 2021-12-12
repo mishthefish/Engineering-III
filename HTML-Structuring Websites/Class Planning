@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Classes to Take</title>
+    </head>
+    
+    <body>
+        <h1>Classes to Take</h1>
+        <ul>
+            <li>
+                Math
+            </li>
+            
+            <li>
+                Science 
+            </li>
+            <li>
+                History 
+            </li>
+            <li>
+                Gemara 
+                
+            </li>
+            <li>
+                English
+            </li>
+        </ul>
+    </body>
+</html>
