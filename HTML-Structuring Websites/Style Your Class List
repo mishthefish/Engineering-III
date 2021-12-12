@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Classes to Take</title>
+    </head>
+    
+    <body style = "background-color:LightBlue;">
+        <h1 style = "font-size:36 px;">Classes to Take</h1>
+        <ul>
+            <li style = "color:LightYellow;">
+                Math
+            </li>
+            
+            <li style = "color:LightYellow;">
+                <b><i>Science </i></b>
+            </li>
+            <li style = "color:LightYellow;">
+                History 
+            </li>
+            <li style = "color:LightYellow;">
+                Gemara 
+                
+            </li>
+            <li style = "color:LightYellow;">
+                English
+            </li>
+        </ul>
+    </body>
+</html>
