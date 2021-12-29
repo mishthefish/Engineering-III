@@ -1,0 +1,83 @@
+<!-- Paste your code here -->
+<!-- Paste your code here -->
+<!-- Paste your code here -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #FFD1AA ;
+		        font-size: 18px ;
+		    }
+		    h1{
+		        color:#003333;
+		    }
+		    h2{
+		        color:#162955;
+		    }
+		    .endangered{
+		        color:red;
+		    }
+		    .threatened{
+		        color:OrangeRed;
+		    }
+		    .scientific-name{
+		        font-style:italic;
+		    }
+		    #one{
+		        border-style:solid;
+		    }
+		    #two{
+		        border-style:dotted;
+		    }
+		    #three{
+		        border-style:dashed;
+		    }
+		    #four{
+		        border-style:double;
+		    }
+		</style>
+	</head>
+
+	<body>
+		<h1>Endangered Animals</h1>
+		<h2>
+		    Baluchistan Bear
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Urus thibetanus gedrosianus</li>
+		        <li>Lives in: Iran and Pakistan</li>
+		        <li class="endangered">Endangered</li>
+		    </ul>
+		    <img src="https://th.bing.com/th/id/R.0939749f596e6dbad19a510336c5d304?rik=s6qo94W4w065ug&riu=http%3a%2f%2fwww.bearsoftheworld.net%2fimages%2fbears%2fasiatic_bear_01.jpg&ehk=8C%2bGIm0Ox3cOUAQdLlRywjj8YtA3ej3yZmblD1Cy8wg%3d&risl=&pid=ImgRaw&r=0" id="one" width="50px" height="50px">
+		</h2>
+		<h2>
+		    False Water Rat
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Xeromys myoides</li>
+		        <li>Lives in: Australia</li>
+		        <li class="endangered">Endangered</li>
+		    </ul>
+		    <img src="https://i.pinimg.com/originals/8d/fc/7a/8dfc7a1a85fdfbae9a0f60bd07392199.jpg" id="two" width="50px" height="50px">
+		</h2>
+		<h2>
+		    Mariana Fruit Bat
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Pteropus mariannus</li>
+		        <li>Lives in: Western Pacific Ocean</li>
+		        <li class="threatened">Threatened</li>
+		    </ul>
+		    <img src="https://th.bing.com/th/id/R.c4631acd0545eebc6c361e3856205f79?rik=lVD732MhhkPBGA&pid=ImgRaw&r=0" id="three" width="50px" height="50px">
+		</h2>
+		<h2>
+		    Utah Prairie Dog
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Cynomys parvidens</li>
+		        <li>Lives in: Utah</li>
+		        <li class="threatened">Threatened</li>
+		    </ul>
+		    <img src="https://th.bing.com/th/id/R.31a53ff8656168ca9a193524f985440d?rik=PjeDZfKdUOgOGQ&riu=http%3a%2f%2fwww.digital-images.net%2fImages%2fSW_Scenic%2fRedCanyon%2fSparky_PrairieDog%2fUtah_Prairie_Dog_Red_Canyon_X2260.jpg&ehk=l5jo14FvNVSa2leTJvfWQUJDJpje%2bJtd2%2fXxgdkdTCQ%3d&risl=&pid=ImgRaw&r=0" id="four" width="50px" height="50px">
+		</h2>
+	
+	</body>
+</html>
