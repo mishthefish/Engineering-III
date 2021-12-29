@@ -1,0 +1,103 @@
+<!-- Copy your code from the 2.8.5 Table of Favorites exercise
+    Add this rule to your style rules:
+    
+    table {
+        width: 100%;
+        font-family: Helvetica;
+    }
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+    <style> 
+         table {
+        width: 100%;
+        font-family: Helvetica;
+    }
+    
+    .header{
+        background-color: OliveDrab;
+         color: white;
+         text-align:center;
+    }
+    .odd-row{
+        background-color: SandyBrown;
+    }
+    .even-row{
+         background-color: LightCoral;
+    }
+    </style>
+    </head>
+    
+    <body>
+        <table border = "1">
+            <thead>
+            <tr class="header ">
+                <th><b>Sunday</b></th>
+                <th><b>Monday</b></th>
+                <th><b>Tuesday</b></th>
+                <th><b>Wednesday</b></th>
+                <th><b>Thursday</b></th>
+                <th><b>Friday</b></th>
+                <th><b>Saturday</b></th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr class= "odd-row">
+                    <td>Pancakes</td>
+                    <td>Toast and Peanut Butter</td>
+                    <td>Protein Shake</td>
+                    <td>Toast and </td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+                <tr class= "even-row">>
+                    <td>Taylor</td>
+                    <td>Orange</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+                <tr class= "odd-row">
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+                <tr class= "even-row">>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                    <td>Purple</td>
+                </tr>
+            </tbody>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </table>
+    </body>
+</html>
