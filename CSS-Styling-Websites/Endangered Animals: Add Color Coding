@@ -1,0 +1,65 @@
+<!-- Paste your code here -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #FFD1AA ;
+		        font-size: 18px ;
+		    }
+		    h1{
+		        color:#003333;
+		    }
+		    h2{
+		        color:#162955;
+		    }
+		    .endangered{
+		        color:red;
+		    }
+		    .threatened{
+		        color:OrangeRed;
+		    }
+		    .scientific-name{
+		        font-style:italic;
+		    }
+		</style>
+	</head>
+
+	<body>
+		<h1>Endangered Animals</h1>
+		<h2>
+		    Baluchistan Bear
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Urus thibetanus gedrosianus</li>
+		        <li>Lives in: Iran and Pakistan</li>
+		        <li class="endangered">Endangered</li>
+		    </ul>
+		</h2>
+		<h2>
+		    False Water Rat
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Xeromys myoides</li>
+		        <li>Lives in: Australia</li>
+		        <li class="endangered">Endangered</li>
+		    </ul>
+		</h2>
+		<h2>
+		    Mariana Fruit Bat
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Pteropus mariannus</li>
+		        <li>Lives in: Western Pacific Ocean</li>
+		        <li class="threatened">Threatened</li>
+		    </ul>
+		</h2>
+		<h2>
+		    Utah Prairie Dog
+		    <ul>
+		        <li class="scientific-name">Scientific Name: Cynomys parvidens</li>
+		        <li>Lives in: Utah</li>
+		        <li class="threatened">Threatened</li>
+		    </ul>
+		</h2>
+	
+	</body>
+</html>
