@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Important Things</title>
+        <style>
+         #important{
+             font-size:20px;
+             color:red;
+         }   
+        </style>
+    </head>
+    <body>
+        <h1>To Do Today</h1>
+        <ul>
+            <li>Go grocery shopping</li>
+            <li id="important">Play kickball</li>
+            <li>Do math homework</li>
+            <li>Walk the dog</li>
+            <li>Feed the dog</li>
+        </ul>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Important Things</title>
+        <style>
+            
+        </style>
+    </head>
+    <body>
+        <h1>To Do Today</h1>
+        <ul>
+            <li>Go grocery shopping</li>
+            <li>Play kickball</li>
+            <li>Do math homework</li>
+            <li>Walk the dog</li>
+            <li>Feed the dog</li>
+        </ul>
+    </body>
+</html>
