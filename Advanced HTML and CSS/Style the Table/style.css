@@ -1,0 +1,22 @@
+thead{
+    background-color:midnightblue;
+    color:white;
+}
+#aliceblue{
+    background-color:AliceBlue;
+}
+#lightseagreen{
+    background-color:LightSeaGreen;
+}
+#orangered{
+    background-color:OrangeRed;
+}
+#aqua{
+    background-color:Aqua;
+}
+#azure{
+     background-color:Azure;
+}
+table{
+    border:1px solid;
+}
