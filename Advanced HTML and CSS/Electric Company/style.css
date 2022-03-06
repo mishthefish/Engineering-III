@@ -1,0 +1,14 @@
+.header{
+    color:LemonChiffon;
+    background-color:black;
+    width:50%;
+}
+.content{
+    background-color:HoneyDew;
+    font-size:24px;
+    width:70%;
+}
+body{
+    background-image:url("https://codehs.com/uploads/0c9fbe72a08ce8b40310652bd6f1efe2");
+     background-repeat: no-repeat;
+}
