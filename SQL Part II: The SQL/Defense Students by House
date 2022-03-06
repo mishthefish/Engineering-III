@@ -1,0 +1,6 @@
+SELECT Person.last_name, Person.first_name, House.name AS "house"
+FROM Person JOIN Enrollment JOIN House
+WHERE Enrollment.course = 5
+AND Enrollment.person = Person.id
+AND Person.house = House.id
+ORDER BY House.name, Person.last_name, Person.first_name
