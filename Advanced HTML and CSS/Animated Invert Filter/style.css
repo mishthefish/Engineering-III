@@ -1,0 +1,16 @@
+img {
+    height: 300px;  
+}
+
+.filtered-image{
+    animation:  2s backward;
+}
+
+@keyframes inverted-animation{
+    from{
+        filter:invert(0%);
+    }
+    to{
+        filter:invert(100%);
+    }
+}
