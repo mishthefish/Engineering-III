@@ -1,0 +1,9 @@
+img.bro{
+    animation:pic-animation 5s forward;
+}
+
+@keyframes pic-animation {
+    
+    from{filter:greyscale(100)}
+    to{filter:greyscale(0)}
+}
