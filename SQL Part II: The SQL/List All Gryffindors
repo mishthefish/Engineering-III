@@ -1,0 +1,5 @@
+SELECT Person.first_name, Person.last_name, House.name AS "house"
+FROM House JOIN Person
+WHERE Person.house = 1
+AND House.name = "Gryffindor"
+ORDER BY first_name
