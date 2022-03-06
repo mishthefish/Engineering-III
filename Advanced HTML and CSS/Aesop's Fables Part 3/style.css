@@ -1,0 +1,102 @@
+/* Copy your code from Aesop's Fables Part 2.
+
+Add a CSS animation (in this file) called "open-book" that changes
+any book's dimensions from a height of 200 px and a width of 100px
+to a height of 400px and a width of 300px.
+
+Then add the animation to the CSS rule so that the animation
+starts when you hover over a book.
+
+*/
+/* Copy your code from Aesop's Fables Part 1.
+
+Add a CSS rule (in this file) that changes the background image of a book
+to "https://codehs.com/uploads/92c3950f9fa0a4b3510bae4dcc8bc95c"
+when you hover over the book.
+
+*/
+/*
+    For each book, use the id to create a CSS rule to apply a filter
+    so that each book looks different 
+*/
+
+
+
+
+
+
+
+
+/* Put your styles ABOVE this line */
+/* Pre-built styles that you don't need to worry about. Don't change 
+these*/
+.book{
+    position:relative;
+    background-size:100% 100%;
+    height:200px;
+    width:100px;
+    background-image:url("https://codehs.com/uploads/0b245f08d2896b7a0142c7085f186963");
+}
+
+.book:hover{
+    animation(book-animation 3s forwards)
+    background-image:url("https://codehs.com/uploads/92c3950f9fa0a4b3510bae4dcc8bc95c")
+}
+.text{
+    position: fixed;
+    text-align:left;
+    visibility:hidden; /* hide the text for now */
+    font-size:16px;
+}
+#lark{
+    filter: blur(5px);
+}
+#bark{
+    filter: brightness(200%);
+}
+#mark{
+    filter: contrast(200%);
+}
+
+#fark{
+    filter: grayscale(100%);
+}
+
+#jark{
+    filter: invert(100%);
+}
+
+#tark{
+    filter: hue-rotate(90deg);
+}
+
+@keyframes book-animation{
+    from{
+        height:200px;
+        width:100;
+        
+    }
+    to{
+        height:400px;
+        width:300px;
+    }
+}
+
+.bookcase{
+    border: 20px solid brown;
+    padding: 50px 20px;
+    width:90%;
+    text-align:center;
+}
+
+ul{
+    list-style-type:none;  /* remove bullets */
+}
+
+li{
+    display:inline-flex; /* force list items to be in one line */
+			 
+}
+body{
+    background-color: tan;
+}
