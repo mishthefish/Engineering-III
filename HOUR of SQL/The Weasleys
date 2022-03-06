@@ -1,0 +1,3 @@
+SELECT first_name
+FROM Person
+Where last_name = "Weasley"
