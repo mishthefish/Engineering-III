@@ -1,0 +1,5 @@
+SELECT Course.name, Person.first_name, Person.last_name, House.name AS "house"
+FROM Course JOIN Person JOIN House
+WHERE Course.professor = Person.id
+AND Person.house = House.id
+ORDER BY Course.name
