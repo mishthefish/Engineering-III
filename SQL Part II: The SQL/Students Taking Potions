@@ -1,0 +1,5 @@
+SELECT Person.last_name, Person.first_name
+FROM Person JOIN Enrollment
+WHERE Enrollment.course = 1
+AND Enrollment.person = Person.id
+ORDER BY Person.last_name
