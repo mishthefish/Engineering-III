@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Programming Languages</title>
+	</head>
+
+	<body>
+	    <h1> Popular Programming Languages </h1>
+	    <p> Two kinds of programming languages are <em>compiled</em>
+	        and <em>scripting</em>.  Compiled language code is first 
+	        processed by a compiler, which produces an executable for you
+	        to run.  Scripting language code is still compiled first,
+	        but it is compiled "on the fly", and is immediately run
+	        for you.
+	    </p>
+	    
+	    <h2> Most Popular Languages </h2>
+	    <ul>
+	        <li>  <a href="compiled.html" >  Compiled Languages </a> </li>
+	        <li> <a href="scripting.html" >  Scripting Languages</a> </li>
+	    </ul>
+	</body>
+</html>
