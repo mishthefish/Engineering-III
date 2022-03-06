@@ -25,3 +25,14 @@
         
 	</body>
 </html>
+
+CSS:
+
+img{
+    height:100px;
+    width:100px;
+}
+
+li { 
+    font-size: 24px;
+}
