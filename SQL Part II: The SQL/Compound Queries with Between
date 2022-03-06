@@ -1,0 +1,4 @@
+Select first_name, last_name
+FROM Person
+WHERE id between 67 and 77
+AND house = 4
