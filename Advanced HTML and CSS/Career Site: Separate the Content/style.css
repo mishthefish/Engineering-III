@@ -1,0 +1,35 @@
+.header{
+    border-style:solid;
+    background-color:AliceBlue;
+}
+
+.content{
+    height:80%;
+    width:70%;
+    background-color:AliceBlue;
+    
+}
+
+.footer{
+    background-color:AliceBlue;
+}
+
+h3 {
+    text-transform: uppercase;
+    
+}
+
+p{
+    text-align: right;
+    font-family: Arial;
+}
+
+body{
+    background-image:url("http://i2.wp.com/www.wonderslist.com/wp-content/uploads/2012/08/Moto.jpg") ;
+    
+}
+
+a{
+    font-size: 16px;
+    font-style:italic;
+}
