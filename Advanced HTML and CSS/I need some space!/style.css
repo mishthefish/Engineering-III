@@ -1,0 +1,19 @@
+.row{
+    /* allows the column divs to appear next to each other */
+    display:flex; 
+}
+
+.col-3{
+    border:solid;
+    border-color:black;
+    height:150px;
+    width:150px;
+    margin:5px;
+    /* Add a margin around the div*/
+    
+}
+
+img{
+    width:150px;
+    height:150px;
+}
