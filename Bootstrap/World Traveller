@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+        <style>
+            body{
+                background-image: url("http://www.publicdomainpictures.net/pictures/140000/t2/grunge-map.jpg");
+                background-size:cover;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="dropdown">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">
+                    Choose Your Adventure
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <!-- Asia -->
+                    <li class="dropdown-header">Asia</li>
+                    <li><a href="#">Bangladesh</a></li>
+                    <li><a href="#">Bangladesh</a></li>
+                    
+                    <!-- Australia -->
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Australia</li>
+                    <li><a href="#">Bangladesh</a></li>
+                    <li><a href="#">Bangladesh</a></li>
+                    
+                    
+                    <!-- Europe -->
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Europe</li>
+                    <li><a href="#">Bangladesh</a></li>
+                    <li><a href="#">Bangladesh</a></li>
+                    
+                    
+                    <!-- North America -->
+                    <li class="divider"></li>
+                    <li class="dropdown-header">North America</li>
+                    <li><a href="#">Bangladesh</a></li>
+                    <li><a href="#">Bangladesh</a></li>
+                    
+                    <!-- South America -->
+                    <li class="divider"></li>
+                    <li class="dropdown-header">South America</li>
+                    <li><a href="#">Bangladesh</a></li>
+                    <li><a href="#">Bangladesh</a></li>
+                    
+                    
+                </ul>
+            </div>
+        </div>
+    
+    </body>
+</html>
