@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First Bootstrap Page</title>
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+        
+        
+    </head>
+    
+    
+    <body>
+        <div class="container">
+            <div class="jumbotron text-center">
+                <h1>My First Bootstrap Page</h1>
+                <p>Resize this responsive page to see the effect!</p> 
+            </div>
+        
+            <div class="row">
+                <div class="col-sm-4">
+                    <h3>About Bootstrap</h3>
+                    <p>Bootstrap is an open-source framework for designing websites and web applications.</p>
+                    <p>Bootstrap was initally called <cite>Twitter Blueprint</cite>.</p>
+                </div>
+                <div class="col-sm-4">
+                    <h3>Why Bootstrap?</h3>
+                    <p>Bootstrap makes it very easy to make beautiful, responsive websites.</p>
+                    <p>Resize this page, or try opening it on a tablet or smart phone to see!</p>
+                </div>
+                <div class="col-sm-4">
+                    <h3>Other Facts</h3> 
+                    <ul>
+                        <li>Developed by Mark Otto and Jacob Thornton at Twitter</li>
+                        <li>As of 2017, 4 versions of Bootstrap have been released</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
