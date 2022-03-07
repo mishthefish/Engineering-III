@@ -1,0 +1,14 @@
+.jumbotron{
+    background-image: url("http://www.publicdomainpictures.net/pictures/30000/velka/cat-1347628091Sbn.jpg");   
+    background-size: cover;
+    opacity:.5;
+    color:red;
+}
+
+body{
+    background-color:#c7f7ed;
+}
+
+.thumbnail{
+    background-color:#d0e5e6;
+}
