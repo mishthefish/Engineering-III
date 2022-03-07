@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+        <title>Lorem ipsum</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class = "jumbotron">
+                <!-- This should be in a jumbotron --> 
+                <h1>Welcome to My Cool Website</h1> 
+                <!-- This should be in a jumbotron --> 
+            </div>
+            
+
+            
+            <!-- Main Content -->
+            <!-- Create row here  --> 
+            <div class = "row">
+                <div class = "col-md-4">
+                    <h3>About Me</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel euismod urna, in porta diam. Aliquam viverra sapien ac lorem commodo, eu molestie quam ultricies. Vivamus nisl odio, viverra nec gravida ut, pretium sit amet augue. Praesent ultrices, tortor non placerat vehicula, est enim facilisis ipsum, a accumsan felis sapien ac leo. Nullam faucibus, turpis ac suscipit imperdiet, nibh lorem laoreet enim, non rutrum magna tellus a mi. Phasellus congue risus id purus maximus ullamcorper at eu elit. Pellentesque gravida ligula non laoreet bibendum. Mauris rutrum turpis lectus, vitae pharetra augue viverra a. Aenean lacus massa, iaculis vel porttitor in, sagittis a felis. Morbi consectetur vehicula urna, ut malesuada velit gravida a. Sed cursus mollis pellentesque. Donec ut est et dolor maximus ullamcorper. Suspendisse eleifend porttitor arcu. Cras at purus tellus.</p>
+                </div>
+                <!-- End of first 4 colummns --> 
+                
+            
+                <!-- This should be in the first 4 columns --> 
+            
+        
+                <!-- Next 4 columns --> 
+                <div class = "col-md-4">
+                    <h3>Cool Tweet</h3>
+                    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As few as 100 wild tigers are left in Bhutan—this photojournalist traveled the country for 3 months looking for them <a href="https://t.co/oPeaX5cNWt">https://t.co/oPeaX5cNWt</a></p>&mdash; National Geographic (@NatGeo) <a href="https://twitter.com/NatGeo/status/892173080856072192">August 1, 2017</a></blockquote>
+                    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <!-- End of middle 4 columns --> 
+            
+        
+                <!-- Next 4 columns -->
+                <div class = "col-md-4">
+                    <h3>List of Things</h3>
+                    <ul>
+                        <li>Nam eu accumsan enim</li>
+                        <li>Donec non felis vel neque tristique ornare</li>
+                        <li>Sed luctus, justo at faucibus consequat</li>
+                        <li>Sed laoreet nisl turpis a eli</li>
+                        <li>Nam eu accumsan enim</li>
+                        <li>Donec non felis vel neque tristique ornare</li>
+                        <li>Sed luctus, justo at faucibus consequat</li>
+                        <li>Sed laoreet nisl turpis a eli</li>
+                        <li>Nam eu accumsan enim</li>
+                        <li>Donec non felis vel neque tristique ornare</li>
+                        <li>Sed luctus, justo at faucibus consequat</li>
+                        <li>Sed laoreet nisl turpis a eli</li>
+                        <li>Nam eu accumsan enim</li>
+                        <li>Donec non felis vel neque tristique ornare</li>
+                        <li>Sed luctus, justo at faucibus consequat</li>
+                        <li>Sed laoreet nisl turpis a eli</li>
+                        <li>Nam eu accumsan enim</li>
+                        <li>Donec non felis vel neque tristique ornare</li>
+                        <li>Sed luctus, justo at faucibus consequat</li>
+                        <li>Sed laoreet nisl turpis a eli</li>
+            </ul>
+            <!-- End of next 4 columns -->
+                </div>
+            <!-- End of row -->
+            </div>
+        </div>
+
+        <br>
+        <!-- Add classes "text-center", "container-fluid", and "well" -->
+        <footer class = "container-fluid text-center well">
+            
+            <h3>Thanks for reading.</h3>
+            <h5>This is the footer.</h5>
+           
+        </footer>
+            
+    </body>
+</html>
