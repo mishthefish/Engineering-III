@@ -1,0 +1,28 @@
+body{
+    background-color:#f4ffdb;
+    font-size:18px;
+}
+
+h1{
+    color:#003333;
+}
+h2{
+    color:#162955;
+}
+img{
+    height:200px;
+}
+
+.endangered{
+    color:red;
+}
+.threatened{
+    color:OrangeRed;
+}
+.scientific-name{
+    font-style:italic;
+}
+
+.footer {
+    font-size: 12px;
+}
