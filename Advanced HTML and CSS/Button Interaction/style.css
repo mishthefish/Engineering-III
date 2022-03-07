@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+button {
+    background-color: #3399ff;
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 15px;
+    outline: none;
+}
+
+button.clickable:active{
+    background-color:blue;
+}
+
+button.clickable:hover{
+    background-color:red;
+}
+
+button.unclickable{
+    cursor: not-allowed;
+    filter: grayscale(100%);
+}
