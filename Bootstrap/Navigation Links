@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <title>The Cafe</title>
+    </head>
+    <body>
+        <!-- Put everything in a container so it has a margin -->
+        <div class="container-fluid">
+        
+            <!-- Jumbotron -->
+            <div class="jumbotron">
+                    <h1>The Cafe</h1>
+                    <p>
+                        Some tasty selections
+                    </p>
+            </div>
+            
+            <nav class="navbar navbar-inverse">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">The Cafe</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href = "#">Drinks</a></li>
+                    <li><a href = "#">Food</a></li>
+                    <li><a href = "#">Sweets</a></li>
+                    
+                    
+                    <!-- Add the navigation links -->
+                    
+                </ul>
+            </nav>
+        
+            <div class="cover">
+                <img class="img-circle"
+                    src="http://www.publicdomainpictures.net/pictures/180000/t2/colorful-wooden-chairs-14665318471m3.jpg"
+                    alt="Cafe interior"
+                    height="400px"
+                >
+            </div>    
+        </div>
+        
+    </body>
+</html>
